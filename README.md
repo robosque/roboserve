@@ -1,2 +1,3 @@
 # Roboserve
-open source distribution platform
+open source insurance distribution platform
+MVP 
